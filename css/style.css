@@ -349,8 +349,8 @@ a:focus {
 
 .service_section::before {
   content: "";
-  width: 200px;
-  height: 175px;
+  width: 150px;
+  height: 100px;
   position: absolute;
   bottom: 95px;
   left: 50%;
