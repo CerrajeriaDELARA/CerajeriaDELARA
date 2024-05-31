@@ -41,11 +41,11 @@
     }
 
     .service_section .box.b-1 .detail-box {
-        text-align: left;
+        text-align: middle;
     }
 
     .service_section .box.b-4 .detail-box {
-        text-align: right;
+        text-align: middle;
     }
 
     .service_section .box {
